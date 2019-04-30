@@ -1,7 +1,7 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
 
-html {
+html{
     font-size: 12px;
 }
 h1, h2 {
@@ -37,20 +37,20 @@ header{
     text-align: right;
 }
 
-ol > li {
+ol > li{
     padding: 5px;
     background-color: grey;
 }
 
-ol > li:nth-of-type(odd) {
+ol > li:nth-of-type(odd){
     background-color: green;
 }
 
-a:hover[title="Bitmaker"] {
+a:hover[title="Bitmaker"]{
     text-decoration: none;
 }
 
-li > a {
+li > a{
     background-color: red;
 }
 
